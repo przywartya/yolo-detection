@@ -1,0 +1,108 @@
+../raw_dataset/otsochodzi/18.jpg 894,245,1019,369,0
+../raw_dataset/ostr/317.jpg 294,189,381,275,0
+../raw_dataset/ostr/40.jpg 244,62,394,211,0
+../raw_dataset/keke/123.jpg 213,29,285,101,0
+../raw_dataset/ostr/537.jpg 561,146,664,250,0 342,79,466,203,0
+../raw_dataset/ostr/71.jpg 445,115,816,486,0
+../raw_dataset/otsochodzi/16.jpg 400,31,503,135,0
+../raw_dataset/ostr/161.jpg 74,64,160,150,0
+../raw_dataset/otsochodzi/28.jpg 858,128,1007,277,0 178,95,327,244,0
+../raw_dataset/ostr/379.jpg 336,198,646,508,0
+../raw_dataset/keke/192.jpg 591,113,806,328,0
+../raw_dataset/keke/180.jpg 54,74,234,254,0
+../raw_dataset/ostr/202.jpg 294,78,443,228,0 1060,0,1185,120,0
+../raw_dataset/otsochodzi/13.jpg 209,0,424,209,0
+../raw_dataset/ostr/159.png 294,83,381,170,0
+../raw_dataset/keke/81.jpg 134,74,313,254,0
+../raw_dataset/keke/8.jpg 228,62,377,211,0
+../raw_dataset/ostr/465.jpg 342,45,429,131,0
+../raw_dataset/otsochodzi/57.jpg 244,78,394,228,0
+../raw_dataset/keke/88.jpg 376,591,591,806,0 95,112,244,261,0 676,543,825,692,0 469,77,541,149,0
+../raw_dataset/otsochodzi/178.jpg 735,209,950,424,0
+../raw_dataset/ostr/391.png 221,157,293,229,0 446,146,549,250,0 947,102,1034,189,0
+../raw_dataset/keke/70.jpg 485,245,557,317,0
+../raw_dataset/otsochodzi/5.jpg 480,93,604,217,0
+../raw_dataset/keke/510.jpg 438,304,525,390,0
+../raw_dataset/ostr/116.jpg 563,37,687,162,0
+../raw_dataset/ostr/131.jpg 286,134,411,259,0
+../raw_dataset/keke/45.jpg 400,161,615,376,0
+../raw_dataset/ostr/35.jpg 251,108,509,366,0
+../raw_dataset/ostr/401.jpg 553,141,640,227,0
+../raw_dataset/ostr/206.jpg 245,107,369,231,0
+../raw_dataset/ostr/190.jpg 148,65,272,189,0
+../raw_dataset/otsochodzi/15.jpg 552,94,731,273,0
+../raw_dataset/keke/4.jpg 251,280,509,538,0
+../raw_dataset/keke/131.jpg 211,78,360,228,0
+../raw_dataset/keke/117.jpg 1265,198,1574,508,0 321,238,692,610,0
+../raw_dataset/otsochodzi/65.jpg 251,108,509,366,0
+../raw_dataset/ostr/363.jpg 544,150,630,237,0
+../raw_dataset/otsochodzi/392.jpg 438,467,525,553,0
+../raw_dataset/keke/253.jpg 253,45,325,117,0
+../raw_dataset/ostr/282.jpg 419,189,506,275,0
+../raw_dataset/otsochodzi/12.jpg 95,178,244,327,0
+../raw_dataset/keke/556.jpg 995,323,1082,410,0
+../raw_dataset/ostr/226.jpg 94,114,273,293,0
+../raw_dataset/keke/90.jpg 452,217,577,342,0
+../raw_dataset/ostr/306.jpg 194,94,373,273,0 473,234,652,413,0
+../raw_dataset/ostr/314.jpg 261,37,333,109,0
+../raw_dataset/ostr/24.jpg 178,62,327,211,0
+../raw_dataset/otsochodzi/152.jpg 357,69,429,141,0
+../raw_dataset/ostr/0.jpg 397,37,521,162,0
+../raw_dataset/ostr/338.jpg 466,37,590,162,0 261,89,365,192,0
+../raw_dataset/otsochodzi/244.png 257,42,472,257,0
+../raw_dataset/otsochodzi/1.jpg 198,141,285,227,0
+../raw_dataset/keke/30.jpg 181,37,253,109,0
+../raw_dataset/otsochodzi/159.png 589,285,661,357,0 1085,477,1157,549,0
+../raw_dataset/ostr/51.jpg 355,24,480,148,0
+../raw_dataset/ostr/271.jpg 217,203,342,328,0
+../raw_dataset/keke/97.jpg 79,108,337,366,0 469,123,572,227,0
+../raw_dataset/ostr/183.jpg 433,54,612,234,0
+../raw_dataset/keke/3.jpg 591,161,806,376,0
+../raw_dataset/otsochodzi/125.jpg 572,114,751,293,0
+../raw_dataset/ostr/435.jpg 203,93,328,217,0
+../raw_dataset/ostr/382.jpg 54,65,158,169,0
+../raw_dataset/keke/515.jpg 131,227,218,314,0 277,221,349,293,0 227,342,314,429,0
+../raw_dataset/ostr/191.jpg 227,35,314,121,0
+../raw_dataset/ostr/66.jpg 353,74,532,254,0
+../raw_dataset/ostr/429.jpg 94,293,273,473,0 352,257,567,472,0
+../raw_dataset/keke/68.jpg 572,174,751,353,0
+../raw_dataset/ostr/248.jpg 19,42,123,146,0 645,333,717,405,0 121,45,208,131,0 561,65,664,169,0 198,54,285,141,0 208,342,294,429,0
+../raw_dataset/ostr/19.jpg 141,64,227,150,0
+../raw_dataset/ostr/198.jpg 53,85,125,157,0
+../raw_dataset/keke/353.jpg 197,93,269,165,0
+../raw_dataset/otsochodzi/196.jpg 767,79,1025,337,0 73,115,445,486,0
+../raw_dataset/ostr/418.jpg 373,77,445,149,0
+../raw_dataset/ostr/276.jpg 507,79,632,203,0
+../raw_dataset/ostr/311.jpg 448,64,534,150,0
+../raw_dataset/keke/174.jpg 273,65,377,169,0
+../raw_dataset/otsochodzi/49.jpg 237,61,309,133,0 496,83,582,170,0
+../raw_dataset/ostr/187.jpg 330,181,434,284,0 649,170,736,256,0 141,525,213,597,0
+../raw_dataset/ostr/7.jpg 214,114,393,293,0
+../raw_dataset/keke/122.jpg 161,66,376,281,0
+../raw_dataset/ostr/234.jpg 178,95,327,244,0
+../raw_dataset/ostr/256.jpg 330,307,434,411,0
+../raw_dataset/ostr/39.jpg 214,74,393,254,0
+../raw_dataset/ostr/165.jpg 112,74,198,160,0
+../raw_dataset/keke/40.jpg 228,128,377,277,0
+../raw_dataset/keke/190.jpg 2410,413,3052,1055,0
+../raw_dataset/keke/419.jpg 35,373,214,552,0
+../raw_dataset/otsochodzi/403.jpg 121,45,208,131,0 393,54,572,234,0
+../raw_dataset/otsochodzi/34.jpg 507,107,632,231,0
+../raw_dataset/ostr/182.jpg 328,79,452,203,0
+../raw_dataset/keke/376.jpg 632,79,756,203,0
+../raw_dataset/keke/310.jpg 423,135,526,238,0
+../raw_dataset/otsochodzi/163.jpg 245,176,369,300,0
+../raw_dataset/ostr/124.jpg 397,134,521,259,0
+../raw_dataset/ostr/233.jpg 237,170,323,256,0
+../raw_dataset/ostr/199.jpg 311,45,460,194,0
+../raw_dataset/otsochodzi/20.jpg 145,178,294,327,0
+../raw_dataset/ostr/88.jpg 146,65,250,169,0
+../raw_dataset/keke/96.jpg 208,93,294,179,0
+../raw_dataset/otsochodzi/162.jpg 581,213,653,285,0
+../raw_dataset/otsochodzi/311.jpg 352,333,438,419,0 90,0,305,209,0
+../raw_dataset/keke/12.png 231,107,355,231,0
+../raw_dataset/ostr/193.jpg 50,50,308,308,0 413,94,592,273,0
+../raw_dataset/keke/33.jpg 592,194,771,373,0
+../raw_dataset/otsochodzi/75.jpg 135,100,238,204,0
+../raw_dataset/keke/46.jpg 261,161,410,311,0
+../raw_dataset/ostr/260.jpg 78,95,228,244,0 646,79,770,203,0
